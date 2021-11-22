@@ -1,5 +1,5 @@
 {
-    "name": "craco",
+    "name": "@petr26/craco",
     "private": true,
     "scripts": {
         "publish": "lerna publish --progress --force-publish",
@@ -18,7 +18,7 @@
         }
     },
     "devDependencies": {
-        "eslint": "6.4.0",
+        "eslint": "8.3.0",
         "husky": "3.0.5",
         "jest": "24.9.0",
         "lerna": "3.16.4",
